@@ -1,9 +1,13 @@
+import AboutMe from "./AboutMe";
+
 
 function App() {
 
   return (
     <>
-        <h1 className={"text-green-800"}>Hello World</h1>
+        <div>
+            <AboutMe />
+        </div>
     </>
   )
 }
