@@ -2,7 +2,7 @@
 function AboutMe() {
     return (
         <>
-            <p>About Me</p>
+           <img src="headshot.jpeg" alt="Picture Of Zach" />
         </>
     )
 }
