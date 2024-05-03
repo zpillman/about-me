@@ -2,7 +2,7 @@
 function AboutMe() {
     return (
         <>
-            <p>Test About Me page</p>
+            <p>About Me</p>
         </>
     )
 }
