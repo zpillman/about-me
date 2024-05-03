@@ -1,4 +1,5 @@
-import AboutMe from "./AboutMe";
+
+import NavBar from "./NavBar";
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
   return (
     <>
         <div>
-            <AboutMe />
+            <NavBar />
         </div>
     </>
   )
